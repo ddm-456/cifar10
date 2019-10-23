@@ -31,6 +31,6 @@ The training log will be dumped via logging, check ``log.txt`` in your work path
 
 
 ## Acknowledgement
-This is code is heavily borrowed from \url{https://github.com/BIGBALLON/CIFAR-ZOO}
+This is code is heavily borrowed from [CIFAR-ZOO](https://github.com/BIGBALLON/CIFAR-ZOO)
 
 
